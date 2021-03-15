@@ -1,7 +1,9 @@
 ### Hi there 👋 Enjoy your stay!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thespacemanatee&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thespacemanatee)](https://github.com/anuraghazra/github-readme-stats)
+These are my favourite languages! Ask me about them!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thespacemanatee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thespacemanatee/thespacemanatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
