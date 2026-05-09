@@ -20,33 +20,16 @@
 ### Languages and Tools
 
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=android,arduino,cassandra,firebase,git,heroku,java,js,kotlin,mongodb,mysql,postman,py,react,redux,spring,ts" alt="Languages and tools" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" height="48" width="48" align="top" />
+  <img src="https://skillicons.dev/icons?i=arduino,cassandra,firebase,git,heroku,java,js,kotlin,mongodb,mysql,postman,py,react,redux,spring,ts" alt="Languages and tools" />
 </p>
 
 ### GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=thespacemanatee&count_private=true&show_icons=true&theme=tokyonight&hide=stars" alt="Chee Kit's GitHub stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=thespacemanatee&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=thespacemanatee&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thespacemanatee&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thespacemanatee" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=thespacemanatee" alt="GitHub Trophies" />
 </p>
